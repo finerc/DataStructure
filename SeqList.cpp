@@ -100,7 +100,6 @@ public:
 			{
 				array[i] = array[i-1]; 
 			}
-			array[index] = _data;
 		}
 	}
 
